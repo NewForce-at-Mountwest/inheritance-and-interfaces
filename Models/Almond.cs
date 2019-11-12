@@ -1,15 +1,8 @@
 namespace advanced_typing.Models{
-    public class Almond
+    public class Almond : Nut
      {
-       
-       public bool Salted {get; set;}
+         public bool isOrganic {get; set;}
 
-       public bool DryRoasted {get; set;}
 
-       public bool TreeNut {get; set;}
-
-        public int CaloriesPerServing {get; set;}
-
-        public string ServingSize {get; set;}
     }
 }

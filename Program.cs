@@ -13,7 +13,10 @@ namespace advanced_typing
             Console.WriteLine("1. Make Gift Basket");
 
 
-            // Problems with our current system: 
+
+
+
+            // Problems with our current system:
             // 1. We're duplicating code! We write the same properties on a bunch of food items
             // 2. Our gift basket need to store a list of multiple types --> not JUST pears, for example, but assorted fruits
 
@@ -22,6 +25,7 @@ namespace advanced_typing
             // What about chocolate orange? Is it a candy or a fruit? Chocolate covered almond?
 
             // Iterfaces --> you can inherit from multiple interfaces
+
             // Let's make interfaces for ICandy, IFruit, INut, etc.
 
 
@@ -31,6 +35,7 @@ namespace advanced_typing
 
             if (userInput == "1")
             {
+
                 MakeGiftBasket.PrintOptions();
             }
             else

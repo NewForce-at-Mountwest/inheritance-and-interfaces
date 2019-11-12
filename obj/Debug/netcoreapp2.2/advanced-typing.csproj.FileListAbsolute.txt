@@ -9,3 +9,13 @@
 /Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/obj/Debug/netcoreapp2.2/advanced-typing.AssemblyInfo.cs
 /Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/obj/Debug/netcoreapp2.2/advanced-typing.dll
 /Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/obj/Debug/netcoreapp2.2/advanced-typing.pdb
+C:\Users\newforce\workspace\teaching\c#\cohort-two\inheritance-and-interfaces\bin\Debug\netcoreapp2.2\advanced-typing.deps.json
+C:\Users\newforce\workspace\teaching\c#\cohort-two\inheritance-and-interfaces\bin\Debug\netcoreapp2.2\advanced-typing.runtimeconfig.json
+C:\Users\newforce\workspace\teaching\c#\cohort-two\inheritance-and-interfaces\bin\Debug\netcoreapp2.2\advanced-typing.runtimeconfig.dev.json
+c:\Users\newforce\workspace\teaching\c#\cohort-two\inheritance-and-interfaces\bin\Debug\netcoreapp2.2\advanced-typing.dll
+c:\Users\newforce\workspace\teaching\c#\cohort-two\inheritance-and-interfaces\bin\Debug\netcoreapp2.2\advanced-typing.pdb
+c:\Users\newforce\workspace\teaching\c#\cohort-two\inheritance-and-interfaces\obj\Debug\netcoreapp2.2\advanced-typing.csprojAssemblyReference.cache
+c:\Users\newforce\workspace\teaching\c#\cohort-two\inheritance-and-interfaces\obj\Debug\netcoreapp2.2\advanced-typing.AssemblyInfoInputs.cache
+c:\Users\newforce\workspace\teaching\c#\cohort-two\inheritance-and-interfaces\obj\Debug\netcoreapp2.2\advanced-typing.AssemblyInfo.cs
+c:\Users\newforce\workspace\teaching\c#\cohort-two\inheritance-and-interfaces\obj\Debug\netcoreapp2.2\advanced-typing.dll
+c:\Users\newforce\workspace\teaching\c#\cohort-two\inheritance-and-interfaces\obj\Debug\netcoreapp2.2\advanced-typing.pdb
