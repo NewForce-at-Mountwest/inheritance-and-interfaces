@@ -1,0 +1,11 @@
+/Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/bin/Debug/netcoreapp2.2/advanced-typing.deps.json
+/Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/bin/Debug/netcoreapp2.2/advanced-typing.runtimeconfig.json
+/Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/bin/Debug/netcoreapp2.2/advanced-typing.runtimeconfig.dev.json
+/Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/bin/Debug/netcoreapp2.2/advanced-typing.dll
+/Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/bin/Debug/netcoreapp2.2/advanced-typing.pdb
+/Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/obj/Debug/netcoreapp2.2/advanced-typing.csprojAssemblyReference.cache
+/Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/obj/Debug/netcoreapp2.2/advanced-typing.csproj.CoreCompileInputs.cache
+/Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/obj/Debug/netcoreapp2.2/advanced-typing.AssemblyInfoInputs.cache
+/Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/obj/Debug/netcoreapp2.2/advanced-typing.AssemblyInfo.cs
+/Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/obj/Debug/netcoreapp2.2/advanced-typing.dll
+/Users/jordancastelloe/workspace/teaching/server-side/c#-orientation/cohort-two/advanced-typing/obj/Debug/netcoreapp2.2/advanced-typing.pdb
