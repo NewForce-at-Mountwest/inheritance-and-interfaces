@@ -1,6 +1,7 @@
 using System;
 using advanced_typing.Models;
 using System.Collections.Generic;
+using advanced_typing.Interfaces;
 
 namespace advanced_typing.Actions
 {
@@ -58,12 +59,16 @@ namespace advanced_typing.Actions
                     isWhole = true
                 };
 
+                ChocolateCoveredPeanut chocoNut = new ChocolateCoveredPeanut(){
+                    Name = "Delicious chocolate covered peanuts"
+                };
+
                 GiftBasket nutGiftBasket = new GiftBasket()
                 {
                     Name = "Lots o' Nuts",
                     Price = 10.99,
-                    GiftBasketInventory = new List<Food>(){
-                        newAlmond, newCashew
+                    GiftBasketInventory = new List<IFood>(){
+                        newAlmond, newCashew, chocoNut
                     }
                 };
 

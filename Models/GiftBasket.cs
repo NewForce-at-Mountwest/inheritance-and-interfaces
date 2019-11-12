@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using advanced_typing.Interfaces;
 
 namespace advanced_typing.Models{
     public class GiftBasket {
@@ -8,7 +9,7 @@ namespace advanced_typing.Models{
 
         public string Name {get; set;}
 
-        public List<Food> GiftBasketInventory {get; set;} = new List<Food>();
+        public List<IFood> GiftBasketInventory {get; set;} = new List<IFood>();
 
     }
 }
