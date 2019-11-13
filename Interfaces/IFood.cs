@@ -5,11 +5,11 @@ namespace advanced_typing.Interfaces
 
     public interface IFood
     {
-        public string Name { get; set; }
+        string Name { get; set; }
 
-        public int CaloriesPerServing { get; set; }
+        int CaloriesPerServing { get; set; }
 
-        public string ServingSize { get; set; }
+        string ServingSize { get; set; }
 
     }
 

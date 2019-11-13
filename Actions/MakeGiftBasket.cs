@@ -22,10 +22,26 @@ namespace advanced_typing.Actions
             {
                 Console.WriteLine("Preparing your fruit gift basket...");
 
-                // To do: create a gift basket class and give it a list of fruit items
+                ChocolateCoveredOrange chocoOrange = new ChocolateCoveredOrange(){
+                    Name = "Chocolate Covered Orange",
+                    hasChocolate = true
+                };
 
-                // To do: create some instances of each item and add them to the gift basket.
+                Pear bartlettPear = new Pear(){
+                    Name = "Bartlett Pear"
+                };
 
+                Apple galaApple = new Apple(){
+                    Name = "Gala Apple"
+                };
+
+                FruitGiftBasket fruityBasket = new FruitGiftBasket();
+
+                fruityBasket.AddItem(chocoOrange);
+
+                fruityBasket.AddItem(new List<IFruit>(){bartlettPear, galaApple});
+
+                fruityBasket.ListInventory();
 
                 Console.WriteLine("All done! Press any key to exit.");
                 Console.ReadKey();
@@ -63,16 +79,16 @@ namespace advanced_typing.Actions
                     Name = "Delicious chocolate covered peanuts"
                 };
 
-                GiftBasket nutGiftBasket = new GiftBasket()
-                {
-                    Name = "Lots o' Nuts",
-                    Price = 10.99,
-                    GiftBasketInventory = new List<IFood>(){
-                        newAlmond, newCashew, chocoNut
-                    }
-                };
+                // GiftBasket nutGiftBasket = new GiftBasket()
+                // {
+                //     Name = "Lots o' Nuts",
+                //     Price = 10.99,
+                //     GiftBasketInventory = new List<IFood>(){
+                //         newAlmond, newCashew, chocoNut
+                //     }
+                // };
 
-                nutGiftBasket.GiftBasketInventory.ForEach(singleNut => Console.WriteLine(singleNut.Name));
+                // nutGiftBasket.GiftBasketInventory.ForEach(singleNut => Console.WriteLine(singleNut.Name));
 
                 Console.WriteLine("All done! Press any key to continue.");
                 Console.ReadKey();

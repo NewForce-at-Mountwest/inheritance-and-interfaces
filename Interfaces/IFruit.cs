@@ -5,11 +5,13 @@ namespace advanced_typing.Interfaces
 
     public interface IFruit
     {
-      public bool isRipe {get; set;}
 
-        public bool hasSeeds {get; set;}
+        string Name { get; set; }
+        bool isRipe { get; set; }
 
-        public string Color {get; set;}
+        bool hasSeeds { get; set; }
+
+        string Color { get; set; }
 
     }
 

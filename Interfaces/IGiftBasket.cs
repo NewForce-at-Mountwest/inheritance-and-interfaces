@@ -7,14 +7,14 @@ namespace advanced_typing.Interfaces
     public interface IGiftBasket<T>
     {
 
-        public double Price { get; set; }
+        double Price { get; set; }
 
-        public string Name { get; set; }
+        string Name { get; set; }
 
-        public List<T> GiftBasketInventory {get; set;}
-        public void AddItem(T item);
-        public void AddItem(List<T> items);
+        List<T> GiftBasketInventory {get; set;}
+        void AddItem(T item);
+        void AddItem(List<T> items);
 
-        public void ListInventory();
+        void ListInventory();
     }
 }
